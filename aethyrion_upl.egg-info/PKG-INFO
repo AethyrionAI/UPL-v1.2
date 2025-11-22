@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: aethyrion-upl
+Version: 1.0.0
+Summary: Universal Provider Layer for LLM providers
+Author: Owen - Aethyrion
+Requires-Python: >=3.11
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: httpx>=0.24.0
+Requires-Dist: groq>=0.9.0
+Requires-Dist: google-generativeai>=0.8.0
+Requires-Dist: huggingface-hub>=0.20.0
+Requires-Dist: openai>=1.0.0
+Requires-Dist: anthropic>=0.18.0
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

@@ -2,7 +2,7 @@
 
 ## How We Discovered Multi-Provider Abstraction
 
-In late 2024, while researching AI provider integrations for what would become Nova (our AI coding assistant), we stumbled across Moonshot's [kosong](https://github.com/MoonshotAI/kosong) library.
+In late 2025, while researching AI provider integrations for what would become Nova (our AI coding assistant), we stumbled across Moonshot's [kosong](https://github.com/MoonshotAI/kosong) library.
 
 At the time, we were frustrated with vendor lock-in. Every AI provider had a different API:
 - OpenAI used one format

@@ -253,7 +253,7 @@ UPL/
 ## 📈 Version History
 
 - **v1.2.0** (Nov 2025) - Dynamic models, prompt caching, thinking mode, 1M context
-- **v1.0.0** (Nov 2025) - Initial release with 12 providers, 211 models
+- **v1.0.0** (Oct 2025) - Initial (internal) release with 12 providers, 211 models
 
 See [CHANGELOG.md](CHANGELOG.md) for detailed history.
 

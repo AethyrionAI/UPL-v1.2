@@ -49,7 +49,7 @@ Kosong gave us the pattern. We needed to expand it.
 
 We took kosong's core insight - provider abstraction as a first-class pattern - and rebuilt it from the ground up for our needs.
 
-### Version 1.0 (November 2025)
+### Version 1.0 (October 2025)
 **The Foundation**
 
 Our first production version powered by the kosong inspiration:
